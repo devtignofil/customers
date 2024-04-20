@@ -6,7 +6,7 @@ Tecnologias:
 - Fastify
 - Prisma
 - Mongo DB
-- Typescript
+- TypeScript
 - React JS
 - Axios
 - Tailwind CSS
